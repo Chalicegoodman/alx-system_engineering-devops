@@ -1,0 +1,2 @@
+#!/bin/bash
+cat word.txt | sort | uniq | pr | lpr
