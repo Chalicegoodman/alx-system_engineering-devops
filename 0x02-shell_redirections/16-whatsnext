@@ -1,0 +1,2 @@
+#!/bin/bash
+sed -n '/root/{n; n; n; p}' /etc/passwd
