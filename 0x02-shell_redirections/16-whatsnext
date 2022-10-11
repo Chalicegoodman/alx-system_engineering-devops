@@ -1,2 +1,2 @@
 #!/bin/bash
-sed -n '/root/{n; n; n; p}' /etc/passwd
+grep -B 3 "root" /etc/passwd
