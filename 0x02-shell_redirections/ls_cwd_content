@@ -1,0 +1,18 @@
+total 20
+drwxr-xr-x 1 user 197121  0 Oct 11 07:18 ./
+drwxr-xr-x 1 user 197121  0 Oct 10 22:50 ../
+-rwxr-xr-x 1 user 197121 34 Oct 11 04:33 0-hello_world*
+-rwxr-xr-x 1 user 197121 28 Oct 10 22:50 1-confused_smiley*
+-rwxr-xr-x 1 user 197121 31 Oct 10 22:50 2-hellofile*
+-rwxr-xr-x 1 user 197121 41 Oct 10 22:50 3-twofiles*
+-rwxr-xr-x 1 user 197121 31 Oct 10 22:50 4-lastlines*
+-rwxr-xr-x 1 user 197121 31 Oct 10 22:50 5-firstlines*
+-rwxr-xr-x 1 user 197121 37 Oct 11 06:52 6-third_line*
+-rwxr-xr-x 1 user 197121 73 Oct 11 05:05 7-file*
+-rwxr-xr-x 1 user 197121 37 Oct 11 07:15 8-cwd_state*
+-rwxr-xr-x 1 user 197121 73 Oct 11 06:31 9-duplicate_last_line*
+-rw-r--r-- 1 user 197121 19 Oct 10 22:50 README.md
+-rw-r--r-- 1 user 197121 14 Oct 11 04:49 iacta
+-rw-r--r-- 1 user 197121  0 Oct 11 06:33 inacta
+-rw-r--r-- 1 user 197121  0 Oct 11 07:18 ls_cwd_content
+-rw-r--r-- 1 user 197121  0 Oct 11 06:32 new_me
